@@ -1,6 +1,6 @@
 ### Hi, I'm Pedro! :)
 
-<p><em> I am a physics student with a passion for coding and learning new techologies. Currently working on theoretical physics and web development.</a>
+<p><em> I am a physicist with a passion for coding and learning new techologies. Currently working on theoretical physics, data science and web development.</a>
  </em></p>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santospedrohenrique/)
