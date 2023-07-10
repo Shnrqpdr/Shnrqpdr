@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shnrqpdr&layout=compact&theme=algolia&count_private=true&langs_count=6&hide=cuda,jupyter%20notebook" />
   </a>
 </div>
--->
