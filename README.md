@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shnrqpdr&layout=compact&theme=algolia&count_private=true&langs_count=6&hide=cuda,jupyter%20notebook" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shnrqpdr&layout=compact&theme=algolia&count_private=true&langs_count=6&hide=cuda,jupyter%20notebook,html" />
   </a>
 </div>
