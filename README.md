@@ -17,11 +17,3 @@ I also have strong expertise in **infrastructure and distributed systems**, espe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santospedrohenrique/)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shnrqpdr&layout=compact&theme=algolia&count_private=true&langs_count=6&hide=cuda,jupyter%20notebook,html" />
-  </a>
-</div>
