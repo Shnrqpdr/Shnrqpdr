@@ -1,26 +1,24 @@
-### Hi, I'm Pedro! :)
+## Hi, I'm Pedro! 👋
 
-<p><em> I am a physicist with a passion for coding and learning new techologies. Currently working on theoretical physics, data science and web development.</a>
- </em></p>
+**M.Sc. in Physics**
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santospedrohenrique/)
- 
+I'm a **Master's degree in Physics** currently working as Data Engineer and Data Scientist with over **4 years of experience** building solutions that combine data engineering, machine learning, cloud infrastructure, and software development.
 
+I work across the **full ML/DL lifecycle** — data collection, feature engineering, training, deployment, versioning, and monitoring — with hands-on experience in both traditional ML and Deep Learning, especially **Gradient Boosting**–based models.
 
-<!--
-**Shnrqpdr/Shnrqpdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-&hide=jupyter%20notebook
-Here are some ideas to get you started:
+On the engineering side, I develop and maintain **robust data and MLOps pipelines**, focusing on model governance, inference monitoring, containerization, and scalable deployment (e.g., **Vertex AI**, Docker, Airflow).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have strong expertise in **infrastructure and distributed systems**, especially in **Kubernetes cluster management**, CI/CD automation, and cloud environments.
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santospedrohenrique/)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
